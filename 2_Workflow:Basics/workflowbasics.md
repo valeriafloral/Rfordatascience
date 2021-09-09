@@ -128,7 +128,7 @@ my_varıable
 ```
 
 <details>
-<summary>**Respuesta**</summary>
+<summary><b>Respuesta</b></summary>
 <br>
 Tiene un typo, una i sin punto
 </details>
@@ -150,10 +150,11 @@ filter(diamond, carat > 3)
 ```
 
 <details>
-<summary>**Respuesta**</summary>
+<summary><b>Respuesta</b></summary>
 <br>
+ 
 ```
-library(tidyverse)
+ library(tidyverse)
 
 ggplot(data = mpg) +
 geom_point(mapping = aes(x = displ, y = hwy))
@@ -167,7 +168,7 @@ filter(diamonds, carat > 3)
 3. Presiona `Alt-Shift-K`, ¿qué pasa? ¿cómo podemos llegar al mismo lugar usando los menus?
 
 <details>
-<summary>**Respuesta**</summary>
+<summary><b>Respuesta</b></summary>
 <br>
 ![](altshiftk.png)
 
