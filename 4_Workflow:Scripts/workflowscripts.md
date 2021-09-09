@@ -51,7 +51,7 @@ RStudio también nos permite saber sobre los potenciales problemas:
 2. ¿Qué otros errores comunes reporta el diagnóstico de RStudio?
 
 <details>
-<summary>**Respuesta**</summary>
+ <summary><b>Respuesta</b></summary>
 <br>
 
 **Trata de detectar si una función va a funcionar cuando la llamamos, por lo que reporta:**
