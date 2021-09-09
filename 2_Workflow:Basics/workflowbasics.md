@@ -1,4 +1,4 @@
-# Coding Basics
+# Workflow: Basics
  
 ## Coding basics
 
@@ -48,7 +48,7 @@ x
 
 ```{r tab_ejemplo}
 this_is_a_really_long_name <- 2.5
-#this
+this
 ```
 
 **¡¡¡Tuvimos un error!!!**
@@ -65,8 +65,8 @@ this(Cmd/Ctrl-↑)
 
 ```{r}
 r_rocks <-  2 ^ 3
-#r_rock
-#R_rocks
+r_rock
+R_rocks
 ```
 
 ## Llamando funciones
