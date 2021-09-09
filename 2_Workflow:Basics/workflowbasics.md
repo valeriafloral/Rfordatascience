@@ -154,7 +154,7 @@ filter(diamond, carat > 3)
 <br>
  
 ```
- library(tidyverse)
+library(tidyverse)
 
 ggplot(data = mpg) +
 geom_point(mapping = aes(x = displ, y = hwy))
