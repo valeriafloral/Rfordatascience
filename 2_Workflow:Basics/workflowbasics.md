@@ -170,7 +170,7 @@ filter(diamonds, carat > 3)
 <details>
 <summary><b>Respuesta</b></summary>
 <br>
-![](altshiftk.png)
 
+![](altshiftk.png)
 Podemos llegar ahí: **Tools > Keyboard Shortcuts Help**
 </details>
