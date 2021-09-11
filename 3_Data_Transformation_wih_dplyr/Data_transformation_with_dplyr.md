@@ -127,6 +127,7 @@ Algunas veces podemos simplificar subconjuntos complicados recordando la ley de 
 
 > !(x & y ) es lo mismo que !x | !y, y !(x | y) es lo mismo que !x y !y
 
+
 ![](señora.jpg)
 
 Por ejemplo, si queremos encontrar vuelos que no fueron retrasados (en llegada o salida) por más de dos horas, podemos utilizar los siguientes dos filtros:
